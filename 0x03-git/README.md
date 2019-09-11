@@ -1,1 +1,1 @@
-holberton is hard
+i am c
